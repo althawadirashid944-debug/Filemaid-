@@ -1,5 +1,5 @@
 # Filemaid🧹-
-An event-driven linux utility daemon that automatically organises your Downloads folder into structured categories note: still WIP (work in progress) you will need to use a terminal command for it to work
+An event-driven linux utility daemon that automatically organises your Downloads folder into structured categories note: still WIP (work in progress) you will need to use a terminal command for it to work [IF YOU SEE ANY FOLDERS SUCH AS BUILD OR LIB IGNORE THEM JUST DOWNLOAD AND US THE Filemaid folder] 
 -
 -
 -
